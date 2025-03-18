@@ -1,6 +1,8 @@
 
 # Bem-vindo! Sinta-se em casa. 👋
 ![EHb5ANY](https://github.com/user-attachments/assets/a5502da5-0729-4a1b-bde4-9d73b366db69)
+##Olá, me chamo Alesandro Molina. Atualmente estou me qualificando em QA pela Plataforma DIO.ME. Aqui você encontrará todo meu progresso.
+
 
   
 
