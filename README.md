@@ -1,6 +1,6 @@
 
 # Bem-vindo! Sinta-se em casa. 👋
-![Porta](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgur.com%2Fgallery%2Fnether-portal-gif-LMj0fqQ&psig=AOvVaw3MFk347fgwNvbnykQnY6Xu&ust=1742402146042000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCXw_qHlIwDFQAAAAAdAAAAABAE)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgur.com%2Fgallery%2Fnether-portal-gif-LMj0fqQ&psig=AOvVaw3MFk347fgwNvbnykQnY6Xu&ust=1742402146042000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCXw_qHlIwDFQAAAAAdAAAAABAE)
  
   
   
