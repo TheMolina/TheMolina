@@ -1,7 +1,17 @@
 
-<center><h1> Bem-vindo! Sinta-se em casa. 👋 </h1></center>  
+<div align="center">
+ 
+ # 👾 Bem Vindo! 👾
+ 
+</div>
 
-![EHb5ANY](https://github.com/user-attachments/assets/a5502da5-0729-4a1b-bde4-9d73b366db69)
+<div align="center">
+
+![](https://github.com/user-attachments/assets/a5502da5-0729-4a1b-bde4-9d73b366db69)
+
+</div>
+
+
 #### Olá, me chamo Alesandro Molina. Atualmente estou me qualificando em QA pela Plataforma DIO.ME. Aqui você encontrará todo meu progresso, bem como todos meus projetos.
 ### Aqui estão minhas habilidades até agora:
 ----------------
@@ -24,17 +34,4 @@
 
 
 
-<!--
-**TheMolina/TheMolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
