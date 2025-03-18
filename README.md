@@ -4,9 +4,8 @@
 #### Olá, me chamo Alesandro Molina. Atualmente estou me qualificando em QA pela Plataforma DIO.ME. Aqui você encontrará todo meu progresso.
 ### Aqui estão minhas habilidades até agora:
 
-![Design sem nome (2)](https://github.com/user-attachments/assets/182b3170-4d1f-4e01-9b62-0503f525a644)
+![Design sem nome (3)](https://github.com/user-attachments/assets/cd5b70c1-8ce0-4385-9b17-ee1f4a29b958)
 
-  
 
 
 <!--
