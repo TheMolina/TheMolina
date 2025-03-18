@@ -1,6 +1,6 @@
 
 # Bem-vindo! Sinta-se em casa. 👋
-![Porta](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FMinecraft%2Fcomments%2F1cmv3l%2Fheres_a_gif_of_my_nether_portal_as_requested%2F&psig=AOvVaw2RghC9qKgFLE-iqP3jJ3ua&ust=1742401609821000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiD8dWGlIwDFQAAAAAdAAAAABAE)
+![Porta](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgur.com%2Fgallery%2Fnether-portal-gif-LMj0fqQ&psig=AOvVaw3MFk347fgwNvbnykQnY6Xu&ust=1742402146042000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCXw_qHlIwDFQAAAAAdAAAAABAE)
  
   
   
